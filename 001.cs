@@ -1,5 +1,3 @@
-´´´csharp
-
 using System;
 using System.Threading;
 
@@ -95,5 +93,3 @@ namespace ConsoleAppIsFun
 		}
 	}
 }
-
-´´´
